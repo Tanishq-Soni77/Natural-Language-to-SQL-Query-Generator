@@ -1,0 +1,14 @@
+# Generated data / local DB
+ecommerce.db
+customers.csv
+products.csv
+orders.csv
+
+# Secrets
+.env
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
